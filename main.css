@@ -1,0 +1,133 @@
+﻿body{
+background: #cdcbcb;
+height:100%;
+}
+.bl-background {
+ 
+  padding: 100px;
+min-width:1100px;
+}
+
+
+.bl-list {
+   
+ background: white;
+ 
+width:100%;
+height:40px; 
+margin-bottom: 1px;
+
+padding:10px;
+}
+
+.leftside{
+width:60%; 
+float:left;
+}
+
+
+.rightside{
+width:25%;
+float:right;
+}
+
+.bl-bought {
+ 
+   background: white;
+width:100%;
+margin-bottom: 1px;
+padding:10px; 
+
+
+}
+
+
+/*Кнопки*/
+
+.bl-label {
+ 
+border-radius:10%; 
+ padding:5px 10px 5px 10px;
+margin:10px;
+ background: #cdcbcb;
+}
+
+.bl-plus {
+  
+width:30px;
+height:30px;
+border-radius:50%;   
+ background: #04a613;
+
+color:white}
+.bl-minus {
+ 
+width:30px;
+height:30px;
+border-radius:50%;  
+ background: #FF0000;
+
+color:white}
+.bl-product{
+float:left;
+width:20%;
+}
+.bl-count{
+float:left;
+width:20%;
+}
+.bl-buttons{
+float:right;
+width:40%;
+}
+.knopka{
+width:100%;
+}
+.Products{
+width:15%;
+height:45px;
+border-radius:10%;
+background:blue;
+color:white;
+}
+.text{
+ width:80%;
+    height: 30px;
+    padding: 5px 10px 5px 10px;
+    border:1px solid blue;
+    font-size:16px;
+    font-family: Tahoma;
+}
+.bought{
+width:70%;
+height:45px;
+border-radius:10%;
+}
+.x{
+width:20%;
+height:45px;
+border-radius:10%;
+background:red;
+color:white;
+}
+.bl-title{
+ padding:5px;
+margin:3px;
+font-size:18px;
+font-weight: 600; 
+font-family:Arial;
+}
+.bl-title2{
+padding:5px;
+margin:2px;
+font-size:13px;
+ background: #cdcbcb;
+border-radius:10%;
+}
+.bl-title3{
+padding:2px 5px 2px 5px;
+margin:5px;
+color:white;
+background:orange;
+border-radius:50%;
+}
